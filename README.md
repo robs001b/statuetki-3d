@@ -46,4 +46,4 @@ są kolejno od rozmiaru nominalnego (np. 13 mm) do minimum (domyślnie 8,5 mm): 
 miejscach, potem mniejsze, z progiem krzywizny zależnym od rozmiaru. W pełnym wypełnieniu okno idzie na
 wylot przód-tył albo jest niszą z medalionem na dnie.
 
-Wdrożenie: gałąź `gh-pages` zawiera zbudowany `dist/` (npm run build), publikowany przez GitHub Pages.
+Wdrożenie: GitHub Actions (`.github/workflows/pages.yml`) buduje Vite i publikuje `dist/` na GitHub Pages.
