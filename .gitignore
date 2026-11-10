@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.stl
+*.3mf
+*.log
+.venv/
+__pycache__/
+weryfikacja/*.json
+.DS_Store
